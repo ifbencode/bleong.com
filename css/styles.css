@@ -1,0 +1,51 @@
+body {
+  font-family: 'Lora', serif;
+  text-align: left;
+}
+
+#header {
+  margin: 3rem 3rem 0rem 3rem;
+}
+
+.BL-logo {
+  height: 80px;
+}
+
+#main {
+  padding: 0rem 3rem 3rem 3rem;
+}
+
+.container {
+  margin-top: 3rem;
+  background-color: #000000;
+}
+
+#intro-heading {
+  font-weight: 700;
+  font-size: 3rem;
+}
+
+#intro-copy {
+  font-size: 2rem;
+  margin-top: -2rem;
+  line-height: 3rem;
+}
+
+.col-3 {
+  border: 1px solid white;
+}
+
+#red {
+  background-color: red;
+  height: 50px;
+}
+
+#green {
+  background-color: green;
+  height: 50px;
+}
+
+#blue {
+  background-color: blue;
+  height: 50px;
+}
